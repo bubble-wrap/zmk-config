@@ -13,7 +13,7 @@
 #define RSE 2
 #define ADJ 3
 
-&lt { quick_tap_ms = <200>; };
+&lt { quick_tap_ms = <250>; };
 
 &mt { quick_tap_ms = <200>; };
 
